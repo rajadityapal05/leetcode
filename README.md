@@ -6,6 +6,7 @@
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/rajadityapal05/leetcode/tree/master/0319-bulb-switcher) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0223-rectangle-area) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
