@@ -6,6 +6,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/rajadityapal05/leetcode/tree/master/0319-bulb-switcher) |
+| [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 ## Brainteaser
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
