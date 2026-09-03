@@ -13,6 +13,7 @@
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/rajadityapal05/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/rajadityapal05/leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 ## Brainteaser
 |  |
@@ -49,6 +50,7 @@
 | ------- |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/rajadityapal05/leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
