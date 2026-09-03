@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/rajadityapal05/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
