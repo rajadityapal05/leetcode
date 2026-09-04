@@ -18,6 +18,7 @@
 | [0343-integer-break](https://github.com/rajadityapal05/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 ## Brainteaser
 |  |
@@ -58,6 +59,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0343-integer-break](https://github.com/rajadityapal05/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
+| [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
