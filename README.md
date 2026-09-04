@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/rajadityapal05/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0223-rectangle-area) |
@@ -57,6 +58,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/rajadityapal05/leetcode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/rajadityapal05/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajadityapal05/leetcode/tree/master/0342-power-of-four) |
