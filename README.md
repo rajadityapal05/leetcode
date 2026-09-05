@@ -22,6 +22,7 @@
 | [0372-super-pow](https://github.com/rajadityapal05/leetcode/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajadityapal05/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 ## Brainteaser
 |  |
@@ -152,4 +153,13 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
+## Linked List
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
