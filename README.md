@@ -25,6 +25,7 @@
 | [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/rajadityapal05/leetcode/tree/master/0390-elimination-game) |
+| [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 ## Brainteaser
 |  |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
