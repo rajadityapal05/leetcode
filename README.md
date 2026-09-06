@@ -27,6 +27,7 @@
 | [0390-elimination-game](https://github.com/rajadityapal05/leetcode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -43,11 +44,13 @@
 | ------- |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajadityapal05/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajadityapal05/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 ## Nim Game
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajadityapal05/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +91,7 @@
 | [0326-power-of-three](https://github.com/rajadityapal05/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajadityapal05/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/rajadityapal05/leetcode/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +104,7 @@
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
+| [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
@@ -211,4 +217,8 @@
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
