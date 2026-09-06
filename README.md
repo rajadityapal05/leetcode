@@ -27,6 +27,7 @@
 | [0390-elimination-game](https://github.com/rajadityapal05/leetcode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
+| [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
 ## Brainteaser
 |  |
 | ------- |
