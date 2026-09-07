@@ -26,6 +26,7 @@
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/rajadityapal05/leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/rajadityapal05/leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
@@ -185,6 +187,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Linked List
 |  |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
 ## Binary Search
 |  |
 | ------- |
