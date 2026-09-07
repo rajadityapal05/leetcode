@@ -29,6 +29,7 @@
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -106,6 +107,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
