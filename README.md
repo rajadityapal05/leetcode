@@ -39,6 +39,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/rajadityapal05/leetcode/tree/master/0593-valid-square) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -128,6 +129,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -198,6 +200,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/rajadityapal05/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0447-number-of-boomerangs](https://github.com/rajadityapal05/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Rejection Sampling
 |  |
@@ -289,4 +293,8 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
