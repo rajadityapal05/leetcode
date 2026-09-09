@@ -42,6 +42,7 @@
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/rajadityapal05/leetcode/tree/master/0593-valid-square) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -83,6 +84,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/rajadityapal05/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Geometry
@@ -134,6 +136,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -184,6 +187,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
