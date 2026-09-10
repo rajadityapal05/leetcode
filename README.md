@@ -28,6 +28,7 @@
 | [0396-rotate-function](https://github.com/rajadityapal05/leetcode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/rajadityapal05/leetcode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rajadityapal05/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/rajadityapal05/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/rajadityapal05/leetcode/tree/master/0447-number-of-boomerangs) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0412-fizz-buzz](https://github.com/rajadityapal05/leetcode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rajadityapal05/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
@@ -334,6 +336,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rajadityapal05/leetcode/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
