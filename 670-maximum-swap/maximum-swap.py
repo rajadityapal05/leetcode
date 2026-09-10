@@ -3,16 +3,19 @@ class Solution:
         digits = list(str(num))
 
         # Store the last position of each digit
-        last = {}
+        last = [-1] * 10
 
-        for i, digit in enumerate(digits):
-            last[digit] = i
+        for i, d in enumerate(digits):
+            last[int(d)] = i
 
-        # Try to improve each digit from left to right
-        for i in range(len(digits)):
-            for d in range(9, int(digits[i]), -1):
-                if str(d) in last and last[str(d)] > i:
-                    j = last[str(d)]
+        # Find the first digit we can make larger
+        for i, d in enumerate(digits):
+            current = int(d)
+
+            # Try larger digits, from 9 down to current + 1
+            for bigger in range(9, current, -1):
+                if last[bigger] > i:
+                    j = last[bigger]
 
                     digits[i], digits[j] = digits[j], digits[i]
 
