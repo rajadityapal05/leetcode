@@ -58,6 +58,7 @@
 | [0670-maximum-swap](https://github.com/rajadityapal05/leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
+| [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0738-monotone-increasing-digits](https://github.com/rajadityapal05/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
@@ -163,6 +164,7 @@
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0667-beautiful-arrangement-ii](https://github.com/rajadityapal05/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
+| [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -217,6 +219,7 @@
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
+| [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | [0447-number-of-boomerangs](https://github.com/rajadityapal05/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
@@ -255,6 +259,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 ## Linked List
 |  |
 | ------- |
@@ -275,6 +280,7 @@
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rajadityapal05/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Two Pointers
 |  |
