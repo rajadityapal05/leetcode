@@ -64,6 +64,7 @@
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/rajadityapal05/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0780-reaching-points](https://github.com/rajadityapal05/leetcode/tree/master/0780-reaching-points) |
+| [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -172,6 +173,7 @@
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
+| [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -251,6 +253,7 @@
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
@@ -307,6 +310,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/rajadityapal05/leetcode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/rajadityapal05/leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Sliding Window
 |  |
