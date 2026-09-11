@@ -60,6 +60,7 @@
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0738-monotone-increasing-digits](https://github.com/rajadityapal05/leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0754-reach-a-number](https://github.com/rajadityapal05/leetcode/tree/master/0754-reach-a-number) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -281,6 +282,7 @@
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rajadityapal05/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0754-reach-a-number](https://github.com/rajadityapal05/leetcode/tree/master/0754-reach-a-number) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Two Pointers
 |  |
