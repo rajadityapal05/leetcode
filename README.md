@@ -69,6 +69,7 @@
 | [0788-rotated-digits](https://github.com/rajadityapal05/leetcode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/rajadityapal05/leetcode/tree/master/0789-escape-the-ghosts) |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -139,6 +140,7 @@
 | [0650-2-keys-keyboard](https://github.com/rajadityapal05/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/rajadityapal05/leetcode/tree/master/0788-rotated-digits) |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 ## Recursion
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -395,4 +398,5 @@
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
