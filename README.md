@@ -73,6 +73,7 @@
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/rajadityapal05/leetcode/tree/master/0866-prime-palindrome) |
+| [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -248,6 +249,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
@@ -371,6 +374,7 @@
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/rajadityapal05/leetcode/tree/master/0479-largest-palindrome-product) |
+| [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 ## Ordered Set
 |  |
 | ------- |
@@ -417,4 +421,8 @@
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
+## Counting
+|  |
+| ------- |
+| [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 <!---LeetCode Topics End-->
