@@ -71,6 +71,7 @@
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -125,6 +126,7 @@
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/rajadityapal05/leetcode/tree/master/0593-valid-square) |
+| [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/rajadityapal05/leetcode/tree/master/0780-reaching-points) |
+| [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
@@ -403,4 +406,12 @@
 | ------- |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
+## Number Theory
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
