@@ -68,6 +68,7 @@
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0788-rotated-digits](https://github.com/rajadityapal05/leetcode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/rajadityapal05/leetcode/tree/master/0789-escape-the-ghosts) |
+| [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -137,6 +138,7 @@
 | [0553-optimal-division](https://github.com/rajadityapal05/leetcode/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/rajadityapal05/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/rajadityapal05/leetcode/tree/master/0788-rotated-digits) |
+| [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
 ## Recursion
 |  |
 | ------- |
@@ -389,4 +391,8 @@
 |  |
 | ------- |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
