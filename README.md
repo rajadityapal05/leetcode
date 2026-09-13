@@ -77,6 +77,7 @@
 | [0866-prime-palindrome](https://github.com/rajadityapal05/leetcode/tree/master/0866-prime-palindrome) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -137,6 +138,7 @@
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/rajadityapal05/leetcode/tree/master/0593-valid-square) |
 | [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -424,6 +427,7 @@
 | ------- |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Probability and Statistics
 |  |
 | ------- |
