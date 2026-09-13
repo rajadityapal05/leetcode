@@ -78,6 +78,7 @@
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
@@ -212,6 +213,7 @@
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -272,6 +274,7 @@
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [0670-maximum-swap](https://github.com/rajadityapal05/leetcode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/rajadityapal05/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 ## Sliding Window
 |  |
