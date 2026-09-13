@@ -78,6 +78,7 @@
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -98,6 +99,7 @@
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 ## Game Theory
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 ## Nim Game
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +259,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -373,6 +378,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 ## Primality Test
 |  |
 | ------- |
@@ -454,4 +460,12 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
+## Graph Theory
+|  |
+| ------- |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
+## Topological Sort
+|  |
+| ------- |
+| [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 <!---LeetCode Topics End-->
