@@ -30,8 +30,7 @@ class Solution:
             if score == 6:
                 return
 
-            # Keep only words that would produce the same
-            # number of matches as our guess.
+            
             candidates = [
                 word for word in candidates
                 if matches(best_word, word) == score
