@@ -1,0 +1,28 @@
+class Solution:
+    def projectionArea(self, grid: list[list[int]]) -> int:
+        n = len(grid)
+
+        top = 0
+        front = 0
+        side = 0
+
+        for i in range(n):
+            row_max = 0
+
+            for j in range(n):
+                if grid[i][j] > 0:
+                    top += 1
+
+                row_max = max(row_max, grid[i][j])
+
+            front += row_max
+
+        for j in range(n):
+            col_max = 0
+
+            for i in range(n):
+                col_max = max(col_max, grid[i][j])
+
+            side += col_max
+
+        return top + front + side
