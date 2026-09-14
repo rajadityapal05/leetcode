@@ -86,6 +86,7 @@
 | [0932-beautiful-array](https://github.com/rajadityapal05/leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -190,6 +191,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/rajadityapal05/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
+| [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Array
 |  |
@@ -226,6 +228,7 @@
 | [0932-beautiful-array](https://github.com/rajadityapal05/leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -318,6 +321,7 @@
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
@@ -504,4 +508,8 @@
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
