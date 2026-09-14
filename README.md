@@ -88,6 +88,7 @@
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
+| [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -326,6 +327,7 @@
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
+| [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
@@ -431,6 +433,7 @@
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/rajadityapal05/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
 ## Ordered Set
 |  |
 | ------- |
