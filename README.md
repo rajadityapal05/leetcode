@@ -87,6 +87,7 @@
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/rajadityapal05/leetcode/tree/master/1185-day-of-the-week) |
@@ -151,6 +152,7 @@
 | [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -322,6 +325,7 @@
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
 |  |
