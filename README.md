@@ -546,4 +546,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/rajadityapal05/leetcode/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
