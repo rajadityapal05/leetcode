@@ -552,4 +552,5 @@
 | [0626-exchange-seats](https://github.com/rajadityapal05/leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/rajadityapal05/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/rajadityapal05/leetcode/tree/master/1075-project-employees-i) |
+| [1321-restaurant-growth](https://github.com/rajadityapal05/leetcode/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
