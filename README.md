@@ -554,4 +554,5 @@
 | [1075-project-employees-i](https://github.com/rajadityapal05/leetcode/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/rajadityapal05/leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/rajadityapal05/leetcode/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/rajadityapal05/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
