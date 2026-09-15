@@ -203,6 +203,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0283-move-zeroes) |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -320,6 +321,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rajadityapal05/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -476,6 +478,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
