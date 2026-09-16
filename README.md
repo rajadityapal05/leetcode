@@ -553,6 +553,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/rajadityapal05/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/rajadityapal05/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/rajadityapal05/leetcode/tree/master/1075-project-employees-i) |
+| [1158-market-analysis-i](https://github.com/rajadityapal05/leetcode/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/rajadityapal05/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/rajadityapal05/leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/rajadityapal05/leetcode/tree/master/1321-restaurant-growth) |
