@@ -95,6 +95,7 @@
 | [0991-broken-calculator](https://github.com/rajadityapal05/leetcode/tree/master/0991-broken-calculator) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajadityapal05/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1175-prime-arrangements](https://github.com/rajadityapal05/leetcode/tree/master/1175-prime-arrangements) |
@@ -253,6 +254,7 @@
 | [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -318,6 +320,7 @@
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -421,6 +424,7 @@
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
