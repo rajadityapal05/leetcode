@@ -585,6 +585,7 @@
 | [1164-product-price-at-a-given-date](https://github.com/rajadityapal05/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/rajadityapal05/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/rajadityapal05/leetcode/tree/master/1179-reformat-department-table) |
+| [1193-monthly-transactions-i](https://github.com/rajadityapal05/leetcode/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/rajadityapal05/leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/rajadityapal05/leetcode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/rajadityapal05/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
