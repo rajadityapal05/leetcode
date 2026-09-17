@@ -95,6 +95,7 @@
 | [0991-broken-calculator](https://github.com/rajadityapal05/leetcode/tree/master/0991-broken-calculator) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajadityapal05/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1033-moving-stones-until-consecutive](https://github.com/rajadityapal05/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/rajadityapal05/leetcode/tree/master/0319-bulb-switcher) |
+| [1033-moving-stones-until-consecutive](https://github.com/rajadityapal05/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rajadityapal05/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Minimax
 |  |
