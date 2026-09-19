@@ -98,6 +98,7 @@
 | [1033-moving-stones-until-consecutive](https://github.com/rajadityapal05/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/rajadityapal05/leetcode/tree/master/1154-day-of-the-year) |
@@ -627,4 +628,12 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Tree
+|  |
+| ------- |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 <!---LeetCode Topics End-->
