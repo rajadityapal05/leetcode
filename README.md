@@ -602,6 +602,7 @@
 ## Database
 |  |
 | ------- |
+| [0601-human-traffic-of-stadium](https://github.com/rajadityapal05/leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rajadityapal05/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/rajadityapal05/leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/rajadityapal05/leetcode/tree/master/1045-customers-who-bought-all-products) |
