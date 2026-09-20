@@ -118,6 +118,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1362-closest-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1362-closest-divisors) |
 ## Brainteaser
 |  |
 | ------- |
@@ -592,6 +593,7 @@
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1362-closest-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1362-closest-divisors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
