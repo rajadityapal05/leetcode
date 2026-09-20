@@ -121,6 +121,7 @@
 | [1362-closest-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1390-four-divisors) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
 ## Brainteaser
 |  |
@@ -234,6 +235,7 @@
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Array
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1390-four-divisors) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Backtracking
 |  |
 | ------- |
@@ -391,6 +394,7 @@
 | [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajadityapal05/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Design
 |  |
 | ------- |
@@ -473,6 +477,7 @@
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Rejection Sampling
 |  |
 | ------- |
