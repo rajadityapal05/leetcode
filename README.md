@@ -123,6 +123,7 @@
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rajadityapal05/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -180,6 +181,7 @@
 | [1154-day-of-the-year](https://github.com/rajadityapal05/leetcode/tree/master/1154-day-of-the-year) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Geometry
 |  |
 | ------- |
