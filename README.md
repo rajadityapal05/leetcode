@@ -123,6 +123,7 @@
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Brainteaser
 |  |
@@ -192,6 +193,7 @@
 | [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1390-four-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Backtracking
 |  |
@@ -360,6 +363,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -520,6 +524,7 @@
 | [0479-largest-palindrome-product](https://github.com/rajadityapal05/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Ordered Set
 |  |
