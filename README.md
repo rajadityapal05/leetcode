@@ -682,6 +682,7 @@
 | [1667-fix-names-in-a-table](https://github.com/rajadityapal05/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/rajadityapal05/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/rajadityapal05/leetcode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rajadityapal05/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/rajadityapal05/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rajadityapal05/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Quicksort
