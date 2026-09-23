@@ -703,6 +703,7 @@
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rajadityapal05/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/rajadityapal05/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/rajadityapal05/leetcode/tree/master/1795-rearrange-products-table) |
+| [1965-employees-with-missing-information](https://github.com/rajadityapal05/leetcode/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rajadityapal05/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Quicksort
 |  |
