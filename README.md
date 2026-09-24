@@ -133,6 +133,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rajadityapal05/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Brainteaser
@@ -232,6 +233,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/rajadityapal05/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [0920-number-of-music-playlists](https://github.com/rajadityapal05/leetcode/tree/master/0920-number-of-music-playlists) |
 | [1201-ugly-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/1201-ugly-number-iii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -510,6 +513,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Rejection Sampling
 |  |
 | ------- |
