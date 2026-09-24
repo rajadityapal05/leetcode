@@ -131,6 +131,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rajadityapal05/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -163,6 +164,7 @@
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/rajadityapal05/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
@@ -313,6 +316,7 @@
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/rajadityapal05/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
