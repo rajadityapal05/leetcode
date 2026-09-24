@@ -100,6 +100,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1093-statistics-from-a-large-sample](https://github.com/rajadityapal05/leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1103-distribute-candies-to-people](https://github.com/rajadityapal05/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
@@ -574,6 +575,7 @@
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1103-distribute-candies-to-people](https://github.com/rajadityapal05/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/rajadityapal05/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Pigeonhole Principle
 |  |
