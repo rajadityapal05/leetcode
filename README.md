@@ -120,6 +120,7 @@
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rajadityapal05/leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajadityapal05/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajadityapal05/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1362-closest-divisors) |
