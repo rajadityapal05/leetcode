@@ -123,6 +123,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajadityapal05/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rajadityapal05/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1362-closest-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1362-closest-divisors) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1390-four-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1390-four-divisors) |
@@ -239,6 +240,7 @@
 | [0920-number-of-music-playlists](https://github.com/rajadityapal05/leetcode/tree/master/0920-number-of-music-playlists) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rajadityapal05/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rajadityapal05/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -344,6 +346,7 @@
 | [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 | [0920-number-of-music-playlists](https://github.com/rajadityapal05/leetcode/tree/master/0920-number-of-music-playlists) |
 | [1201-ugly-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/1201-ugly-number-iii) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rajadityapal05/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Depth-First Search
