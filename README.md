@@ -119,6 +119,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rajadityapal05/leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajadityapal05/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1362-closest-divisors) |
@@ -317,6 +318,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/rajadityapal05/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajadityapal05/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1390-four-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1390-four-divisors) |
