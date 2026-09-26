@@ -122,6 +122,7 @@
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rajadityapal05/leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajadityapal05/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajadityapal05/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -208,6 +209,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1154-day-of-the-year](https://github.com/rajadityapal05/leetcode/tree/master/1154-day-of-the-year) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -340,6 +342,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/rajadityapal05/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajadityapal05/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1390-four-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1390-four-divisors) |
@@ -361,6 +364,7 @@
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Combinatorics
 |  |
