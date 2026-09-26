@@ -146,6 +146,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/rajadityapal05/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
@@ -166,6 +167,7 @@
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 ## Game Theory
 |  |
@@ -178,6 +180,7 @@
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 ## Nim Game
 |  |
@@ -345,6 +348,7 @@
 | [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
@@ -424,6 +428,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
 |  |
@@ -533,6 +538,7 @@
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rajadityapal05/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 ## Sliding Window
 |  |
 | ------- |
@@ -564,6 +570,7 @@
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 ## Primality Test
 |  |
@@ -708,6 +715,7 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 ## Quickselect
 |  |
 | ------- |
