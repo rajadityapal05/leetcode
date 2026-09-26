@@ -124,6 +124,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajadityapal05/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajadityapal05/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/rajadityapal05/leetcode/tree/master/1323-maximum-69-number) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/rajadityapal05/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -544,6 +545,7 @@
 | [0991-broken-calculator](https://github.com/rajadityapal05/leetcode/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rajadityapal05/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1323-maximum-69-number](https://github.com/rajadityapal05/leetcode/tree/master/1323-maximum-69-number) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/rajadityapal05/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rajadityapal05/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
