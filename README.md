@@ -51,6 +51,7 @@
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/rajadityapal05/leetcode/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/rajadityapal05/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
@@ -312,6 +313,7 @@
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/rajadityapal05/leetcode/tree/master/0553-optimal-division) |
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
+| [0598-range-addition-ii](https://github.com/rajadityapal05/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/rajadityapal05/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
