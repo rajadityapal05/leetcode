@@ -51,6 +51,7 @@
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/rajadityapal05/leetcode/tree/master/0593-valid-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/rajadityapal05/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -311,6 +312,7 @@
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/rajadityapal05/leetcode/tree/master/0553-optimal-division) |
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/rajadityapal05/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
@@ -430,6 +432,7 @@
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
