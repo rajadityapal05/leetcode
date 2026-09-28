@@ -137,6 +137,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rajadityapal05/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1360-number-of-days-between-two-dates](https://github.com/rajadityapal05/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1362-closest-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1362-closest-divisors) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1390-four-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1390-four-divisors) |
@@ -226,6 +227,7 @@
 | [1154-day-of-the-year](https://github.com/rajadityapal05/leetcode/tree/master/1154-day-of-the-year) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
+| [1360-number-of-days-between-two-dates](https://github.com/rajadityapal05/leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
