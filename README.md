@@ -153,6 +153,7 @@
 | [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1515-best-position-for-a-service-centre](https://github.com/rajadityapal05/leetcode/tree/master/1515-best-position-for-a-service-centre) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/rajadityapal05/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rajadityapal05/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
