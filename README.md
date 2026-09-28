@@ -150,6 +150,7 @@
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1486-xor-operation-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/rajadityapal05/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rajadityapal05/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -183,6 +184,7 @@
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajadityapal05/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 ## Game Theory
@@ -197,6 +199,7 @@
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajadityapal05/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 ## Impartial Game
 |  |
 | ------- |
@@ -280,6 +284,7 @@
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/rajadityapal05/leetcode/tree/master/1406-stone-game-iii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -615,6 +620,7 @@
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajadityapal05/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 ## Primality Test
@@ -833,4 +839,8 @@
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
