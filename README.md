@@ -101,6 +101,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
+| [0972-equal-rational-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0972-equal-rational-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/rajadityapal05/leetcode/tree/master/0991-broken-calculator) |
@@ -237,6 +238,7 @@
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0906-super-palindromes](https://github.com/rajadityapal05/leetcode/tree/master/0906-super-palindromes) |
+| [0972-equal-rational-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0972-equal-rational-numbers) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajadityapal05/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/rajadityapal05/leetcode/tree/master/1154-day-of-the-year) |
