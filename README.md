@@ -110,6 +110,7 @@
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 | [1012-numbers-with-repeated-digits](https://github.com/rajadityapal05/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajadityapal05/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1017-convert-to-base-2](https://github.com/rajadityapal05/leetcode/tree/master/1017-convert-to-base-2) |
 | [1033-moving-stones-until-consecutive](https://github.com/rajadityapal05/leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
