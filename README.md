@@ -37,6 +37,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajadityapal05/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/rajadityapal05/leetcode/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/rajadityapal05/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/rajadityapal05/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
@@ -539,6 +540,7 @@
 | [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/rajadityapal05/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
@@ -624,6 +626,7 @@
 ## Rejection Sampling
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/rajadityapal05/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/rajadityapal05/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Zero-Sum Game
 |  |
@@ -714,6 +717,7 @@
 ## Probability and Statistics
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/rajadityapal05/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [1093-statistics-from-a-large-sample](https://github.com/rajadityapal05/leetcode/tree/master/1093-statistics-from-a-large-sample) |
