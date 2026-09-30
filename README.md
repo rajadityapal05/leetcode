@@ -113,6 +113,7 @@
 | [1017-convert-to-base-2](https://github.com/rajadityapal05/leetcode/tree/master/1017-convert-to-base-2) |
 | [1025-divisor-game](https://github.com/rajadityapal05/leetcode/tree/master/1025-divisor-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/rajadityapal05/leetcode/tree/master/1033-moving-stones-until-consecutive) |
+| [1037-valid-boomerang](https://github.com/rajadityapal05/leetcode/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajadityapal05/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -269,6 +270,7 @@
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1037-valid-boomerang](https://github.com/rajadityapal05/leetcode/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/rajadityapal05/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/rajadityapal05/leetcode/tree/master/1515-best-position-for-a-service-centre) |
@@ -386,6 +388,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/rajadityapal05/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
+| [1037-valid-boomerang](https://github.com/rajadityapal05/leetcode/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1093-statistics-from-a-large-sample](https://github.com/rajadityapal05/leetcode/tree/master/1093-statistics-from-a-large-sample) |
