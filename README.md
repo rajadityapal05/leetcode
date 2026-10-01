@@ -145,6 +145,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rajadityapal05/leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajadityapal05/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajadityapal05/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rajadityapal05/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
@@ -594,6 +595,7 @@
 | ------- |
 | [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/rajadityapal05/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajadityapal05/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Reservoir Sampling
 |  |
 | ------- |
