@@ -135,6 +135,7 @@
 | [1201-ugly-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/1201-ugly-number-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rajadityapal05/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rajadityapal05/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rajadityapal05/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -281,6 +282,7 @@
 | [0963-minimum-area-rectangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/rajadityapal05/leetcode/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rajadityapal05/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/rajadityapal05/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/rajadityapal05/leetcode/tree/master/1515-best-position-for-a-service-centre) |
@@ -408,6 +410,7 @@
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rajadityapal05/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rajadityapal05/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rajadityapal05/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/rajadityapal05/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
