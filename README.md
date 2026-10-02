@@ -158,6 +158,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajadityapal05/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/rajadityapal05/leetcode/tree/master/1323-maximum-69-number) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/rajadityapal05/leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajadityapal05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajadityapal05/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/rajadityapal05/leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -364,6 +365,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajadityapal05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
