@@ -251,6 +251,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/rajadityapal05/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/rajadityapal05/leetcode/tree/master/0282-expression-add-operators) |
@@ -302,6 +303,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -529,6 +531,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sorting
 |  |
@@ -729,6 +732,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/rajadityapal05/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 ## Enumeration
