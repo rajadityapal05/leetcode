@@ -923,6 +923,7 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rajadityapal05/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/rajadityapal05/leetcode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/rajadityapal05/leetcode/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/rajadityapal05/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Quicksort
 |  |
 | ------- |
