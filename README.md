@@ -195,6 +195,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/rajadityapal05/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/rajadityapal05/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Brainteaser
@@ -279,6 +280,7 @@
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Geometry
 |  |
 | ------- |
