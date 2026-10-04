@@ -273,6 +273,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/rajadityapal05/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
+| [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0906-super-palindromes](https://github.com/rajadityapal05/leetcode/tree/master/0906-super-palindromes) |
@@ -326,6 +327,7 @@
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/rajadityapal05/leetcode/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/rajadityapal05/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/rajadityapal05/leetcode/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
@@ -555,6 +557,7 @@
 | [0020-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -686,6 +689,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/rajadityapal05/leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/rajadityapal05/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
@@ -761,6 +765,7 @@
 | [0020-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/rajadityapal05/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 ## Enumeration
 |  |
