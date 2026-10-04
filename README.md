@@ -188,6 +188,7 @@
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/rajadityapal05/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -344,6 +345,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajadityapal05/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/rajadityapal05/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
@@ -361,6 +363,7 @@
 | [0390-elimination-game](https://github.com/rajadityapal05/leetcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/rajadityapal05/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajadityapal05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/rajadityapal05/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
@@ -538,6 +542,7 @@
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/rajadityapal05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bracket Sequences
 |  |
 | ------- |
