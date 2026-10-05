@@ -200,6 +200,7 @@
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/rajadityapal05/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/rajadityapal05/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -683,6 +684,7 @@
 | [1201-ugly-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/1201-ugly-number-iii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -715,6 +717,7 @@
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/rajadityapal05/leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
+| [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 ## Sliding Window
 |  |
 | ------- |
