@@ -188,6 +188,7 @@
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1610-maximum-number-of-visible-points](https://github.com/rajadityapal05/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/rajadityapal05/leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -310,6 +311,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/rajadityapal05/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/rajadityapal05/leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/rajadityapal05/leetcode/tree/master/1515-best-position-for-a-service-centre) |
+| [1610-maximum-number-of-visible-points](https://github.com/rajadityapal05/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Dynamic Programming
 |  |
@@ -468,6 +470,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1610-maximum-number-of-visible-points](https://github.com/rajadityapal05/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
@@ -575,6 +578,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1363-largest-multiple-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1363-largest-multiple-of-three) |
+| [1610-maximum-number-of-visible-points](https://github.com/rajadityapal05/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -710,6 +714,7 @@
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1610-maximum-number-of-visible-points](https://github.com/rajadityapal05/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 ## Prefix Sum
 |  |
 | ------- |
