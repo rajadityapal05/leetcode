@@ -985,6 +985,7 @@
 | [3436-find-valid-emails](https://github.com/rajadityapal05/leetcode/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/rajadityapal05/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/rajadityapal05/leetcode/tree/master/3475-dna-pattern-recognition) |
+| [3497-analyze-subscription-conversion](https://github.com/rajadityapal05/leetcode/tree/master/3497-analyze-subscription-conversion) |
 | [3570-find-books-with-no-available-copies](https://github.com/rajadityapal05/leetcode/tree/master/3570-find-books-with-no-available-copies) |
 ## Quicksort
 |  |
