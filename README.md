@@ -209,6 +209,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/rajadityapal05/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -495,6 +496,7 @@
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
@@ -829,6 +831,7 @@
 | [1518-water-bottles](https://github.com/rajadityapal05/leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/rajadityapal05/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
