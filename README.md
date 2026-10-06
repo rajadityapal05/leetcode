@@ -191,6 +191,7 @@
 | [1610-maximum-number-of-visible-points](https://github.com/rajadityapal05/leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/rajadityapal05/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/rajadityapal05/leetcode/tree/master/1643-kth-smallest-instructions) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -644,6 +645,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
 | ------- |
@@ -864,6 +866,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/rajadityapal05/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/rajadityapal05/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -1022,10 +1025,15 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Sweep Line
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
