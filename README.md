@@ -202,6 +202,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/rajadityapal05/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/rajadityapal05/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/rajadityapal05/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -234,6 +235,7 @@
 | [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [1563-stone-game-v](https://github.com/rajadityapal05/leetcode/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 ## Nim Game
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/rajadityapal05/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/rajadityapal05/leetcode/tree/master/1643-kth-smallest-instructions) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Recursion
@@ -485,6 +489,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -567,6 +572,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/rajadityapal05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -764,6 +770,7 @@
 | [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 ## Primality Test
 |  |
 | ------- |
@@ -847,6 +854,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Probability and Statistics
 |  |
@@ -902,10 +910,12 @@
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
