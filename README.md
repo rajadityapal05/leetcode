@@ -206,6 +206,7 @@
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/rajadityapal05/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/rajadityapal05/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -298,6 +299,7 @@
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajadityapal05/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/rajadityapal05/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/rajadityapal05/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Geometry
 |  |
