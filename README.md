@@ -272,6 +272,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -410,6 +411,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0283-move-zeroes) |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
@@ -1060,4 +1062,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
