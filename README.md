@@ -208,6 +208,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/rajadityapal05/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/rajadityapal05/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
