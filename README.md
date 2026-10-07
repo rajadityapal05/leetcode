@@ -213,6 +213,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
@@ -502,6 +503,7 @@
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Backtracking
@@ -555,6 +557,7 @@
 | [1201-ugly-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rajadityapal05/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
@@ -567,6 +570,7 @@
 | [1201-ugly-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/rajadityapal05/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/rajadityapal05/leetcode/tree/master/1447-simplified-fractions) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
@@ -896,6 +900,7 @@
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Least Common Multiple
