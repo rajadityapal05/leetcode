@@ -216,6 +216,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1860-incremental-memory-leak](https://github.com/rajadityapal05/leetcode/tree/master/1860-incremental-memory-leak) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -864,6 +865,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/rajadityapal05/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1860-incremental-memory-leak](https://github.com/rajadityapal05/leetcode/tree/master/1860-incremental-memory-leak) |
 ## Pigeonhole Principle
 |  |
 | ------- |
