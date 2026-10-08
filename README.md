@@ -210,6 +210,7 @@
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -727,6 +728,7 @@
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -761,6 +763,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Sliding Window
 |  |
 | ------- |
