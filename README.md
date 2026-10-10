@@ -211,6 +211,7 @@
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajadityapal05/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
@@ -386,6 +387,7 @@
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
+| [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Recursion
@@ -422,6 +424,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 ## Array
 |  |
 | ------- |
@@ -514,6 +517,7 @@
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
+| [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -531,6 +535,7 @@
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/rajadityapal05/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/rajadityapal05/leetcode/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 ## Combinatorics
 |  |
 | ------- |
@@ -925,6 +930,7 @@
 | [1627-graph-connectivity-with-threshold](https://github.com/rajadityapal05/leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
+| [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -956,6 +962,7 @@
 | [0464-can-i-win](https://github.com/rajadityapal05/leetcode/tree/master/0464-can-i-win) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
+| [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 ## Graph Theory
 |  |
 | ------- |
