@@ -206,6 +206,7 @@
 | [1735-count-ways-to-make-array-with-product](https://github.com/rajadityapal05/leetcode/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/rajadityapal05/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1753-maximum-score-from-removing-stones](https://github.com/rajadityapal05/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/rajadityapal05/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
@@ -767,6 +768,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
+| [1753-maximum-score-from-removing-stones](https://github.com/rajadityapal05/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Sliding Window
 |  |
@@ -995,6 +997,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
+| [1753-maximum-score-from-removing-stones](https://github.com/rajadityapal05/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
 ## Quickselect
 |  |
