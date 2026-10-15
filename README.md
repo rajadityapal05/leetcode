@@ -88,6 +88,7 @@
 | [0810-chalkboard-xor-game](https://github.com/rajadityapal05/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0812-largest-triangle-area) |
 | [0829-consecutive-numbers-sum](https://github.com/rajadityapal05/leetcode/tree/master/0829-consecutive-numbers-sum) |
+| [0836-rectangle-overlap](https://github.com/rajadityapal05/leetcode/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
@@ -332,6 +333,7 @@
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/rajadityapal05/leetcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/rajadityapal05/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/rajadityapal05/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
