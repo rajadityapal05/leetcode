@@ -229,6 +229,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/rajadityapal05/leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -278,6 +279,7 @@
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
+| [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Geometry
 |  |
@@ -799,6 +802,7 @@
 | [1753-maximum-score-from-removing-stones](https://github.com/rajadityapal05/leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
