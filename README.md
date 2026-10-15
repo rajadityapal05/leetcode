@@ -99,6 +99,7 @@
 | [0878-nth-magical-number](https://github.com/rajadityapal05/leetcode/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/rajadityapal05/leetcode/tree/master/0887-super-egg-drop) |
+| [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0906-super-palindromes](https://github.com/rajadityapal05/leetcode/tree/master/0906-super-palindromes) |
@@ -473,6 +474,7 @@
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/rajadityapal05/leetcode/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
@@ -640,6 +642,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
