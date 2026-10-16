@@ -233,6 +233,7 @@
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
@@ -662,6 +663,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
 |  |
@@ -803,6 +805,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sliding Window
 |  |
 | ------- |
