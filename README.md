@@ -223,6 +223,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rajadityapal05/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/rajadityapal05/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rajadityapal05/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1860-incremental-memory-leak](https://github.com/rajadityapal05/leetcode/tree/master/1860-incremental-memory-leak) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -442,6 +443,7 @@
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rajadityapal05/leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/rajadityapal05/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
@@ -541,6 +543,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rajadityapal05/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/rajadityapal05/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
