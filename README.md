@@ -227,6 +227,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/rajadityapal05/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/rajadityapal05/leetcode/tree/master/1840-maximum-building-height) |
 | [1860-incremental-memory-leak](https://github.com/rajadityapal05/leetcode/tree/master/1860-incremental-memory-leak) |
+| [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -546,6 +547,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rajadityapal05/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/rajadityapal05/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1840-maximum-building-height](https://github.com/rajadityapal05/leetcode/tree/master/1840-maximum-building-height) |
+| [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -773,6 +775,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -833,6 +836,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajadityapal05/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Rejection Sampling
 |  |
@@ -891,6 +895,7 @@
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0906-super-palindromes](https://github.com/rajadityapal05/leetcode/tree/master/0906-super-palindromes) |
 | [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
+| [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/rajadityapal05/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
@@ -993,6 +998,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/rajadityapal05/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Meet in the Middle
 |  |
