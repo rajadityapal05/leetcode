@@ -232,6 +232,7 @@
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rajadityapal05/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/rajadityapal05/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1925-count-square-sum-triples](https://github.com/rajadityapal05/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
@@ -334,6 +335,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/rajadityapal05/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Geometry
