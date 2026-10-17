@@ -457,6 +457,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rajadityapal05/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
@@ -688,6 +689,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0372-super-pow](https://github.com/rajadityapal05/leetcode/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/rajadityapal05/leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -770,6 +772,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/rajadityapal05/leetcode/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/rajadityapal05/leetcode/tree/master/0483-smallest-good-base) |
