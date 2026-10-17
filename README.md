@@ -240,6 +240,7 @@
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2469-convert-the-temperature](https://github.com/rajadityapal05/leetcode/tree/master/2469-convert-the-temperature) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Brainteaser
