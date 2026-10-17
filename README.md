@@ -240,6 +240,7 @@
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 | [2469-convert-the-temperature](https://github.com/rajadityapal05/leetcode/tree/master/2469-convert-the-temperature) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
@@ -558,6 +559,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Backtracking
@@ -595,6 +597,7 @@
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
+| [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -907,6 +910,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/rajadityapal05/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
+| [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Ordered Set
@@ -1131,6 +1135,7 @@
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
+| [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 ## Binary Tree
 |  |
 | ------- |
