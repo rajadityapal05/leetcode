@@ -237,6 +237,7 @@
 | [1925-count-square-sum-triples](https://github.com/rajadityapal05/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rajadityapal05/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -813,6 +814,7 @@
 | [1739-building-boxes](https://github.com/rajadityapal05/leetcode/tree/master/1739-building-boxes) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rajadityapal05/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rajadityapal05/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Two Pointers
 |  |
 | ------- |
