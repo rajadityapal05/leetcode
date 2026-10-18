@@ -238,6 +238,7 @@
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -342,6 +343,7 @@
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/rajadityapal05/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Geometry
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rajadityapal05/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Recursion
 |  |
@@ -601,6 +604,7 @@
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajadityapal05/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rajadityapal05/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Depth-First Search
 |  |
