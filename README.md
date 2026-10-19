@@ -232,6 +232,7 @@
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rajadityapal05/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rajadityapal05/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/rajadityapal05/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/rajadityapal05/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -349,6 +350,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/rajadityapal05/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rajadityapal05/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/rajadityapal05/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/rajadityapal05/leetcode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
@@ -431,6 +433,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/rajadityapal05/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/rajadityapal05/leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/rajadityapal05/leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/rajadityapal05/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -958,6 +961,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajadityapal05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/rajadityapal05/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Enumeration
 |  |
