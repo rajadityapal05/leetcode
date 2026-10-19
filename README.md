@@ -242,6 +242,7 @@
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/rajadityapal05/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
 | [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -582,6 +583,7 @@
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rajadityapal05/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -977,6 +979,7 @@
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/rajadityapal05/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rajadityapal05/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1860-incremental-memory-leak](https://github.com/rajadityapal05/leetcode/tree/master/1860-incremental-memory-leak) |
+| [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
 ## Pigeonhole Principle
 |  |
 | ------- |
