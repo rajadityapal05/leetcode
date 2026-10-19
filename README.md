@@ -244,6 +244,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -277,6 +278,7 @@
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
@@ -297,11 +299,13 @@
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rajadityapal05/leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/rajadityapal05/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
@@ -586,6 +590,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rajadityapal05/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -872,6 +877,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/rajadityapal05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/rajadityapal05/leetcode/tree/master/1927-sum-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/rajadityapal05/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sliding Window
 |  |
@@ -914,6 +920,7 @@
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/rajadityapal05/leetcode/tree/master/1690-stone-game-vii) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 ## Primality Test
 |  |
 | ------- |
@@ -1060,6 +1067,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Meet in the Middle
 |  |
