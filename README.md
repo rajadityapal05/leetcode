@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/rajadityapal05/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rajadityapal05/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
@@ -362,6 +363,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
@@ -493,6 +495,7 @@
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/rajadityapal05/leetcode/tree/master/0039-combination-sum) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
+| [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0283-move-zeroes) |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -671,6 +674,7 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/rajadityapal05/leetcode/tree/master/0780-reaching-points) |
@@ -683,6 +687,7 @@
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/rajadityapal05/leetcode/tree/master/0780-reaching-points) |
@@ -766,6 +771,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
+| [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
