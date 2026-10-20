@@ -250,6 +250,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajadityapal05/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2119-a-number-after-a-double-reversal](https://github.com/rajadityapal05/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
