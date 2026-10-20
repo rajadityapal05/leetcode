@@ -243,6 +243,7 @@
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rajadityapal05/leetcode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/rajadityapal05/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
@@ -595,6 +596,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
@@ -785,6 +787,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/rajadityapal05/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Design
@@ -1060,6 +1063,7 @@
 | [1808-maximize-number-of-nice-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1952-three-divisors](https://github.com/rajadityapal05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajadityapal05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/rajadityapal05/leetcode/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rajadityapal05/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
@@ -1079,6 +1083,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/rajadityapal05/leetcode/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1862-sum-of-floored-pairs](https://github.com/rajadityapal05/leetcode/tree/master/1862-sum-of-floored-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Meet in the Middle
