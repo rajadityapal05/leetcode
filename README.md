@@ -247,6 +247,7 @@
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajadityapal05/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/rajadityapal05/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -600,6 +601,7 @@
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2028-find-missing-observations](https://github.com/rajadityapal05/leetcode/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/rajadityapal05/leetcode/tree/master/2029-stone-game-ix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajadityapal05/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2440-create-components-with-same-value](https://github.com/rajadityapal05/leetcode/tree/master/2440-create-components-with-same-value) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rajadityapal05/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -735,6 +737,7 @@
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
 | [1840-maximum-building-height](https://github.com/rajadityapal05/leetcode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajadityapal05/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rajadityapal05/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rajadityapal05/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
@@ -1034,6 +1037,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajadityapal05/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3044-most-frequent-prime](https://github.com/rajadityapal05/leetcode/tree/master/3044-most-frequent-prime) |
 ## Probability and Statistics
 |  |
