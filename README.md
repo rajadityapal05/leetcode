@@ -527,6 +527,7 @@
 | [0812-largest-triangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
+| [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
@@ -647,6 +648,7 @@
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1106,6 +1108,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -1113,6 +1116,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -1274,4 +1278,8 @@
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
