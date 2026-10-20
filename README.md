@@ -529,6 +529,7 @@
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0849-maximize-distance-to-closest-person](https://github.com/rajadityapal05/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
