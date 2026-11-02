@@ -500,6 +500,7 @@
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -758,6 +759,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/rajadityapal05/leetcode/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/rajadityapal05/leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -812,6 +814,7 @@
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
@@ -1279,6 +1282,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
 ## Trie
 |  |
@@ -1300,4 +1304,12 @@
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
