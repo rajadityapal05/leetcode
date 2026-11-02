@@ -493,6 +493,7 @@
 | [0011-container-with-most-water](https://github.com/rajadityapal05/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rajadityapal05/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rajadityapal05/leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/rajadityapal05/leetcode/tree/master/0039-combination-sum) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
@@ -870,6 +871,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajadityapal05/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rajadityapal05/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rajadityapal05/leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/rajadityapal05/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
