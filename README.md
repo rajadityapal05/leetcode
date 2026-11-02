@@ -503,6 +503,7 @@
 | [0260-single-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/rajadityapal05/leetcode/tree/master/0284-peeking-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -818,6 +819,7 @@
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/rajadityapal05/leetcode/tree/master/0284-peeking-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
@@ -1320,4 +1322,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/rajadityapal05/leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
