@@ -512,6 +512,7 @@
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/rajadityapal05/leetcode/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/rajadityapal05/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0447-number-of-boomerangs](https://github.com/rajadityapal05/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajadityapal05/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -672,6 +673,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1061,6 +1063,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
+| [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -1177,6 +1180,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/rajadityapal05/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/rajadityapal05/leetcode/tree/master/1686-stone-game-vi) |
