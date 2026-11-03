@@ -397,6 +397,7 @@
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/rajadityapal05/leetcode/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/rajadityapal05/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -513,6 +514,7 @@
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/rajadityapal05/leetcode/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rajadityapal05/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0335-self-crossing](https://github.com/rajadityapal05/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -681,6 +683,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
@@ -1352,4 +1355,12 @@
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/rajadityapal05/leetcode/tree/master/0284-peeking-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
