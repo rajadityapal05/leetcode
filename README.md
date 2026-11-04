@@ -509,6 +509,7 @@
 | [0039-combination-sum](https://github.com/rajadityapal05/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rajadityapal05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rajadityapal05/leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0260-single-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/0260-single-number-iii) |
@@ -655,6 +656,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/rajadityapal05/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rajadityapal05/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
 | [0282-expression-add-operators](https://github.com/rajadityapal05/leetcode/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
