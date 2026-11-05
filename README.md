@@ -515,6 +515,7 @@
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajadityapal05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/rajadityapal05/leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0260-single-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/0260-single-number-iii) |
@@ -808,6 +809,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/rajadityapal05/leetcode/tree/master/0372-super-pow) |
@@ -827,6 +829,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/rajadityapal05/leetcode/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rajadityapal05/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -1312,6 +1315,7 @@
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
@@ -1320,6 +1324,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Data Stream
