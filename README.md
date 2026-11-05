@@ -324,6 +324,7 @@
 | [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/rajadityapal05/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/rajadityapal05/leetcode/tree/master/0282-expression-add-operators) |
@@ -510,6 +511,7 @@
 | [0040-combination-sum-ii](https://github.com/rajadityapal05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rajadityapal05/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0260-single-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/0260-single-number-iii) |
@@ -657,6 +659,7 @@
 | [0039-combination-sum](https://github.com/rajadityapal05/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rajadityapal05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/rajadityapal05/leetcode/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
@@ -689,6 +692,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
@@ -1108,6 +1112,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
