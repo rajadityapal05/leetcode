@@ -567,6 +567,7 @@
 | [0554-brick-wall](https://github.com/rajadityapal05/leetcode/tree/master/0554-brick-wall) |
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0598-range-addition-ii](https://github.com/rajadityapal05/leetcode/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/rajadityapal05/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
@@ -972,6 +973,7 @@
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0605-can-place-flowers](https://github.com/rajadityapal05/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/rajadityapal05/leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
