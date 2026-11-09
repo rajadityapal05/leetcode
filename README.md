@@ -556,6 +556,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajadityapal05/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/rajadityapal05/leetcode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rajadityapal05/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
@@ -814,6 +815,7 @@
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/rajadityapal05/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -958,6 +960,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/rajadityapal05/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rajadityapal05/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/rajadityapal05/leetcode/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/rajadityapal05/leetcode/tree/master/0483-smallest-good-base) |
@@ -1179,6 +1182,7 @@
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
@@ -1304,6 +1308,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajadityapal05/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
