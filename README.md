@@ -416,6 +416,7 @@
 | [0376-wiggle-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/rajadityapal05/leetcode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/rajadityapal05/leetcode/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/rajadityapal05/leetcode/tree/master/0413-arithmetic-slices) |
 | [0464-can-i-win](https://github.com/rajadityapal05/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
@@ -565,6 +566,7 @@
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/rajadityapal05/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0413-arithmetic-slices](https://github.com/rajadityapal05/leetcode/tree/master/0413-arithmetic-slices) |
 | [0447-number-of-boomerangs](https://github.com/rajadityapal05/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajadityapal05/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1041,6 +1043,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/rajadityapal05/leetcode/tree/master/0413-arithmetic-slices) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
