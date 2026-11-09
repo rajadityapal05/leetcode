@@ -542,6 +542,7 @@
 | [0283-move-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/rajadityapal05/leetcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/rajadityapal05/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/rajadityapal05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rajadityapal05/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1132,6 +1133,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/rajadityapal05/leetcode/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1174,6 +1176,7 @@
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
