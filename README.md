@@ -533,6 +533,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/rajadityapal05/leetcode/tree/master/0275-h-index-ii) |
@@ -843,6 +844,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/rajadityapal05/leetcode/tree/master/0372-super-pow) |
@@ -948,6 +950,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/rajadityapal05/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rajadityapal05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
@@ -1168,6 +1171,7 @@
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
