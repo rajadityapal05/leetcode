@@ -402,6 +402,7 @@
 | [0119-pascals-triangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rajadityapal05/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -530,6 +531,7 @@
 | [0152-maximum-product-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/rajadityapal05/leetcode/tree/master/0275-h-index-ii) |
@@ -1162,6 +1164,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
