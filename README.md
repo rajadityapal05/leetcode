@@ -532,6 +532,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rajadityapal05/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/rajadityapal05/leetcode/tree/master/0275-h-index-ii) |
@@ -804,6 +805,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/rajadityapal05/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -862,6 +864,7 @@
 | [0041-first-missing-positive](https://github.com/rajadityapal05/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajadityapal05/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rajadityapal05/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
@@ -1218,6 +1221,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rajadityapal05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1473,4 +1477,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
