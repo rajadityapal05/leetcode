@@ -489,6 +489,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rajadityapal05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rajadityapal05/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/rajadityapal05/leetcode/tree/master/0342-power-of-four) |
+| [0393-utf-8-validation](https://github.com/rajadityapal05/leetcode/tree/master/0393-utf-8-validation) |
 | [0464-can-i-win](https://github.com/rajadityapal05/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
@@ -563,6 +564,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rajadityapal05/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/rajadityapal05/leetcode/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/rajadityapal05/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/rajadityapal05/leetcode/tree/master/0406-queue-reconstruction-by-height) |
