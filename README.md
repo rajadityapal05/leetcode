@@ -397,6 +397,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -524,6 +525,7 @@
 | [0040-combination-sum-ii](https://github.com/rajadityapal05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rajadityapal05/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajadityapal05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/rajadityapal05/leetcode/tree/master/0090-subsets-ii) |
@@ -1017,6 +1019,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajadityapal05/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0376-wiggle-subsequence) |
