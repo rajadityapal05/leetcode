@@ -398,6 +398,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0118-pascals-triangle) |
@@ -528,6 +529,7 @@
 | [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rajadityapal05/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rajadityapal05/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajadityapal05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -864,6 +866,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
