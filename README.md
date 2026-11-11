@@ -525,6 +525,7 @@
 | [0040-combination-sum-ii](https://github.com/rajadityapal05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rajadityapal05/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajadityapal05/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajadityapal05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -702,6 +703,7 @@
 | [0039-combination-sum](https://github.com/rajadityapal05/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rajadityapal05/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rajadityapal05/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rajadityapal05/leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajadityapal05/leetcode/tree/master/0090-subsets-ii) |
 | [0282-expression-add-operators](https://github.com/rajadityapal05/leetcode/tree/master/0282-expression-add-operators) |
@@ -819,6 +821,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rajadityapal05/leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
