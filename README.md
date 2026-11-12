@@ -535,6 +535,7 @@
 | [0056-merge-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajadityapal05/leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajadityapal05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/rajadityapal05/leetcode/tree/master/0090-subsets-ii) |
@@ -983,6 +984,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/rajadityapal05/leetcode/tree/master/0275-h-index-ii) |
@@ -1208,6 +1210,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
