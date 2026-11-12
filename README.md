@@ -401,6 +401,7 @@
 | [0053-maximum-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rajadityapal05/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
@@ -533,6 +534,7 @@
 | [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajadityapal05/leetcode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajadityapal05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/rajadityapal05/leetcode/tree/master/0090-subsets-ii) |
@@ -1205,6 +1207,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
