@@ -531,6 +531,7 @@
 | [0049-group-anagrams](https://github.com/rajadityapal05/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajadityapal05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/rajadityapal05/leetcode/tree/master/0090-subsets-ii) |
@@ -827,6 +828,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/rajadityapal05/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rajadityapal05/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
@@ -1407,6 +1409,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0056-merge-intervals) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Tree
 |  |
