@@ -605,6 +605,7 @@
 | [0553-optimal-division](https://github.com/rajadityapal05/leetcode/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/rajadityapal05/leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/rajadityapal05/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/rajadityapal05/leetcode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/rajadityapal05/leetcode/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
@@ -848,6 +849,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/rajadityapal05/leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1048,6 +1050,7 @@
 | [0324-wiggle-sort-ii](https://github.com/rajadityapal05/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0561-array-partition](https://github.com/rajadityapal05/leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/rajadityapal05/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
@@ -1512,6 +1515,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rajadityapal05/leetcode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/rajadityapal05/leetcode/tree/master/0561-array-partition) |
 ## Iterator
 |  |
 | ------- |
