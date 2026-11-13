@@ -607,6 +607,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rajadityapal05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rajadityapal05/leetcode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/rajadityapal05/leetcode/tree/master/0565-array-nesting) |
+| [0575-distribute-candies](https://github.com/rajadityapal05/leetcode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/rajadityapal05/leetcode/tree/master/0587-erect-the-fence) |
 | [0598-range-addition-ii](https://github.com/rajadityapal05/leetcode/tree/master/0598-range-addition-ii) |
@@ -921,6 +922,7 @@
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/rajadityapal05/leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/rajadityapal05/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/rajadityapal05/leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajadityapal05/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
