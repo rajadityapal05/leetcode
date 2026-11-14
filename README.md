@@ -333,6 +333,7 @@
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/rajadityapal05/leetcode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rajadityapal05/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0504-base-7](https://github.com/rajadityapal05/leetcode/tree/master/0504-base-7) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
@@ -426,6 +427,7 @@
 | [0435-non-overlapping-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/rajadityapal05/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/rajadityapal05/leetcode/tree/master/0546-remove-boxes) |
@@ -601,6 +603,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -1548,6 +1551,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rajadityapal05/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1580,4 +1584,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rajadityapal05/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
