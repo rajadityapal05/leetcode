@@ -604,6 +604,7 @@
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rajadityapal05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
