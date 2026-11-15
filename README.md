@@ -554,6 +554,7 @@
 | [0119-pascals-triangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajadityapal05/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/rajadityapal05/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rajadityapal05/leetcode/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -770,6 +771,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/rajadityapal05/leetcode/tree/master/0130-surrounded-regions) |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
@@ -783,6 +785,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajadityapal05/leetcode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/rajadityapal05/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
@@ -1256,6 +1259,7 @@
 | [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/rajadityapal05/leetcode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
@@ -1363,6 +1367,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajadityapal05/leetcode/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
