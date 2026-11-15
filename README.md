@@ -541,6 +541,7 @@
 | [0055-jump-game](https://github.com/rajadityapal05/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajadityapal05/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rajadityapal05/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -1209,6 +1210,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/rajadityapal05/leetcode/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
@@ -1249,6 +1251,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajadityapal05/leetcode/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rajadityapal05/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajadityapal05/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0074-search-a-2d-matrix) |
