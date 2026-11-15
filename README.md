@@ -326,6 +326,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rajadityapal05/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rajadityapal05/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/rajadityapal05/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/rajadityapal05/leetcode/tree/master/0282-expression-add-operators) |
@@ -409,6 +410,7 @@
 | [0119-pascals-triangle-ii](https://github.com/rajadityapal05/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajadityapal05/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/rajadityapal05/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
@@ -556,6 +558,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajadityapal05/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/rajadityapal05/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rajadityapal05/leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -834,6 +837,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0464-can-i-win](https://github.com/rajadityapal05/leetcode/tree/master/0464-can-i-win) |
 | [0546-remove-boxes](https://github.com/rajadityapal05/leetcode/tree/master/0546-remove-boxes) |
@@ -931,6 +935,7 @@
 | [0049-group-anagrams](https://github.com/rajadityapal05/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/rajadityapal05/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0229-majority-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajadityapal05/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -1525,6 +1530,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1600,4 +1606,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rajadityapal05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
