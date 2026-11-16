@@ -678,6 +678,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/rajadityapal05/leetcode/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rajadityapal05/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1090-largest-values-from-labels](https://github.com/rajadityapal05/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1093-statistics-from-a-large-sample](https://github.com/rajadityapal05/leetcode/tree/master/1093-statistics-from-a-large-sample) |
@@ -985,6 +986,7 @@
 | [0970-powerful-integers](https://github.com/rajadityapal05/leetcode/tree/master/0970-powerful-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajadityapal05/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rajadityapal05/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1090-largest-values-from-labels](https://github.com/rajadityapal05/leetcode/tree/master/1090-largest-values-from-labels) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1399-count-largest-group](https://github.com/rajadityapal05/leetcode/tree/master/1399-count-largest-group) |
@@ -1304,6 +1306,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rajadityapal05/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajadityapal05/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajadityapal05/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
