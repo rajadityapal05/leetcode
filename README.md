@@ -677,6 +677,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/rajadityapal05/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
 | [1037-valid-boomerang](https://github.com/rajadityapal05/leetcode/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/rajadityapal05/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -797,6 +798,7 @@
 | [0565-array-nesting](https://github.com/rajadityapal05/leetcode/tree/master/0565-array-nesting) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
+| [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/rajadityapal05/leetcode/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -813,6 +815,7 @@
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajadityapal05/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Bézout's Lemma
@@ -1314,6 +1317,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rajadityapal05/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajadityapal05/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1728-cat-and-mouse-ii](https://github.com/rajadityapal05/leetcode/tree/master/1728-cat-and-mouse-ii) |
