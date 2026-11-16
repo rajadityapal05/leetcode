@@ -450,6 +450,7 @@
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1012-numbers-with-repeated-digits](https://github.com/rajadityapal05/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/rajadityapal05/leetcode/tree/master/1025-divisor-game) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajadityapal05/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/rajadityapal05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajadityapal05/leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -679,6 +680,7 @@
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1073-adding-two-negabinary-numbers) |
 | [1093-statistics-from-a-large-sample](https://github.com/rajadityapal05/leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajadityapal05/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/rajadityapal05/leetcode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajadityapal05/leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -1109,6 +1111,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajadityapal05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/rajadityapal05/leetcode/tree/master/0991-broken-calculator) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajadityapal05/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rajadityapal05/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/rajadityapal05/leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/rajadityapal05/leetcode/tree/master/1323-maximum-69-number) |
@@ -1203,6 +1206,7 @@
 | [0856-score-of-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajadityapal05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajadityapal05/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/rajadityapal05/leetcode/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/rajadityapal05/leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -1555,6 +1559,7 @@
 | [0456-132-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajadityapal05/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1776-car-fleet-ii](https://github.com/rajadityapal05/leetcode/tree/master/1776-car-fleet-ii) |
 ## Queue
 |  |
@@ -1633,4 +1638,5 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajadityapal05/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
