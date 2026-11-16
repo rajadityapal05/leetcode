@@ -450,6 +450,7 @@
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1012-numbers-with-repeated-digits](https://github.com/rajadityapal05/leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/rajadityapal05/leetcode/tree/master/1025-divisor-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/rajadityapal05/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajadityapal05/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/rajadityapal05/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
@@ -678,6 +679,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/rajadityapal05/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/rajadityapal05/leetcode/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/rajadityapal05/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1051-height-checker](https://github.com/rajadityapal05/leetcode/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/rajadityapal05/leetcode/tree/master/1054-distant-barcodes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rajadityapal05/leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
