@@ -416,6 +416,7 @@
 | [0221-maximal-square](https://github.com/rajadityapal05/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/rajadityapal05/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rajadityapal05/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/rajadityapal05/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
@@ -580,6 +581,7 @@
 | [0284-peeking-iterator](https://github.com/rajadityapal05/leetcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/rajadityapal05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rajadityapal05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rajadityapal05/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1059,6 +1061,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rajadityapal05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/rajadityapal05/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rajadityapal05/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/rajadityapal05/leetcode/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/rajadityapal05/leetcode/tree/master/0436-find-right-interval) |
@@ -1634,6 +1637,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Shortest Path
 |  |
