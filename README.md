@@ -435,6 +435,7 @@
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/rajadityapal05/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/rajadityapal05/leetcode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/rajadityapal05/leetcode/tree/master/0553-optimal-division) |
@@ -627,6 +628,7 @@
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rajadityapal05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/rajadityapal05/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/rajadityapal05/leetcode/tree/master/0495-teemo-attacking) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/rajadityapal05/leetcode/tree/master/0500-keyboard-row) |
@@ -773,6 +775,7 @@
 | [0282-expression-add-operators](https://github.com/rajadityapal05/leetcode/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajadityapal05/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/rajadityapal05/leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -1657,6 +1660,7 @@
 | [0322-coin-change](https://github.com/rajadityapal05/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rajadityapal05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/rajadityapal05/leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1691,6 +1695,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rajadityapal05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/rajadityapal05/leetcode/tree/master/0494-target-sum) |
 ## Brute-Force Search
 |  |
 | ------- |
