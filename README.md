@@ -649,6 +649,7 @@
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/rajadityapal05/leetcode/tree/master/0661-image-smoother) |
+| [0665-non-decreasing-array](https://github.com/rajadityapal05/leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/rajadityapal05/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
