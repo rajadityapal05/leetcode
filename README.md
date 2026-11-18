@@ -652,6 +652,7 @@
 | [0661-image-smoother](https://github.com/rajadityapal05/leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/rajadityapal05/leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/rajadityapal05/leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
