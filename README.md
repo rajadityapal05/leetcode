@@ -681,6 +681,7 @@
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0849-maximize-distance-to-closest-person](https://github.com/rajadityapal05/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
+| [0850-rectangle-area-ii](https://github.com/rajadityapal05/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -1299,6 +1300,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0456-132-pattern) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0850-rectangle-area-ii](https://github.com/rajadityapal05/leetcode/tree/master/0850-rectangle-area-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1625,12 +1627,14 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
+| [0850-rectangle-area-ii](https://github.com/rajadityapal05/leetcode/tree/master/0850-rectangle-area-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/rajadityapal05/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/rajadityapal05/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0850-rectangle-area-ii](https://github.com/rajadityapal05/leetcode/tree/master/0850-rectangle-area-ii) |
 | [1622-fancy-sequence](https://github.com/rajadityapal05/leetcode/tree/master/1622-fancy-sequence) |
 ## Trie
 |  |
