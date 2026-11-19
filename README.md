@@ -658,6 +658,7 @@
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajadityapal05/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/rajadityapal05/leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/rajadityapal05/leetcode/tree/master/0665-non-decreasing-array) |
@@ -931,6 +932,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajadityapal05/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
@@ -1100,6 +1102,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rajadityapal05/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0754-reach-a-number](https://github.com/rajadityapal05/leetcode/tree/master/0754-reach-a-number) |
@@ -1129,6 +1132,7 @@
 | [0556-next-greater-element-iii](https://github.com/rajadityapal05/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajadityapal05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -1190,6 +1194,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/rajadityapal05/leetcode/tree/master/0413-arithmetic-slices) |
+| [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1491,6 +1496,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/rajadityapal05/leetcode/tree/master/1054-distant-barcodes) |
