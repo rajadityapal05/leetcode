@@ -345,6 +345,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajadityapal05/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
+| [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0856-score-of-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0856-score-of-parentheses) |
@@ -657,6 +658,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajadityapal05/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -1014,6 +1016,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajadityapal05/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
@@ -1634,6 +1637,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 ## Monotonic Stack
 |  |
 | ------- |
