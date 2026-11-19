@@ -634,6 +634,7 @@
 | [0472-concatenated-words](https://github.com/rajadityapal05/leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0480-sliding-window-median](https://github.com/rajadityapal05/leetcode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/rajadityapal05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/rajadityapal05/leetcode/tree/master/0494-target-sum) |
@@ -1014,6 +1015,7 @@
 | [0447-number-of-boomerangs](https://github.com/rajadityapal05/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/rajadityapal05/leetcode/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/rajadityapal05/leetcode/tree/master/0480-sliding-window-median) |
 | [0500-keyboard-row](https://github.com/rajadityapal05/leetcode/tree/master/0500-keyboard-row) |
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -1207,6 +1209,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/rajadityapal05/leetcode/tree/master/0413-arithmetic-slices) |
+| [0480-sliding-window-median](https://github.com/rajadityapal05/leetcode/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rajadityapal05/leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -1509,6 +1512,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajadityapal05/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/rajadityapal05/leetcode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -1749,4 +1753,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rajadityapal05/leetcode/tree/master/1051-height-checker) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/rajadityapal05/leetcode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
