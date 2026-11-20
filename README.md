@@ -649,6 +649,7 @@
 | [0500-keyboard-row](https://github.com/rajadityapal05/leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/rajadityapal05/leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
@@ -1037,6 +1038,7 @@
 | [0519-random-flip-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/rajadityapal05/leetcode/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/rajadityapal05/leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/rajadityapal05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rajadityapal05/leetcode/tree/master/0575-distribute-candies) |
@@ -1244,6 +1246,7 @@
 | [0303-range-sum-query-immutable](https://github.com/rajadityapal05/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/rajadityapal05/leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/rajadityapal05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/rajadityapal05/leetcode/tree/master/1094-car-pooling) |
