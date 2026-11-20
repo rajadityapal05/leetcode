@@ -645,6 +645,7 @@
 | [0494-target-sum](https://github.com/rajadityapal05/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/rajadityapal05/leetcode/tree/master/0495-teemo-attacking) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/rajadityapal05/leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/rajadityapal05/leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -1341,6 +1342,7 @@
 | [0289-game-of-life](https://github.com/rajadityapal05/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/rajadityapal05/leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/rajadityapal05/leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/rajadityapal05/leetcode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/rajadityapal05/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
@@ -1397,6 +1399,7 @@
 | [0419-battleships-in-a-board](https://github.com/rajadityapal05/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/rajadityapal05/leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/rajadityapal05/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/rajadityapal05/leetcode/tree/master/0661-image-smoother) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
