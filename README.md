@@ -677,6 +677,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/rajadityapal05/leetcode/tree/master/0682-baseball-game) |
+| [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
@@ -837,6 +838,7 @@
 | [0472-concatenated-words](https://github.com/rajadityapal05/leetcode/tree/master/0472-concatenated-words) |
 | [0565-array-nesting](https://github.com/rajadityapal05/leetcode/tree/master/0565-array-nesting) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
@@ -856,6 +858,7 @@
 | [0463-island-perimeter](https://github.com/rajadityapal05/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
 | [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajadityapal05/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [2101-detonate-the-maximum-bombs](https://github.com/rajadityapal05/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -1036,6 +1039,7 @@
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
@@ -1608,6 +1612,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0427-construct-quad-tree](https://github.com/rajadityapal05/leetcode/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1766-tree-of-coprimes](https://github.com/rajadityapal05/leetcode/tree/master/1766-tree-of-coprimes) |
