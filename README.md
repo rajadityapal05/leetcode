@@ -635,6 +635,7 @@
 | [0472-concatenated-words](https://github.com/rajadityapal05/leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/rajadityapal05/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/rajadityapal05/leetcode/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/rajadityapal05/leetcode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/rajadityapal05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rajadityapal05/leetcode/tree/master/0486-predict-the-winner) |
@@ -936,6 +937,7 @@
 | [0455-assign-cookies](https://github.com/rajadityapal05/leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/rajadityapal05/leetcode/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/rajadityapal05/leetcode/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/rajadityapal05/leetcode/tree/master/0561-array-partition) |
@@ -1114,6 +1116,7 @@
 | [0436-find-right-interval](https://github.com/rajadityapal05/leetcode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/rajadityapal05/leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/rajadityapal05/leetcode/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/rajadityapal05/leetcode/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
@@ -1144,6 +1147,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rajadityapal05/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/rajadityapal05/leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/rajadityapal05/leetcode/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/rajadityapal05/leetcode/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0556-next-greater-element-iii](https://github.com/rajadityapal05/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
