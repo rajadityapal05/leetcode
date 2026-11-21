@@ -647,6 +647,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/rajadityapal05/leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/rajadityapal05/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/rajadityapal05/leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rajadityapal05/leetcode/tree/master/0525-contiguous-array) |
@@ -951,6 +952,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajadityapal05/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/rajadityapal05/leetcode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/rajadityapal05/leetcode/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/rajadityapal05/leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/rajadityapal05/leetcode/tree/master/0561-array-partition) |
@@ -1542,6 +1544,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/rajadityapal05/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/rajadityapal05/leetcode/tree/master/0480-sliding-window-median) |
+| [0506-relative-ranks](https://github.com/rajadityapal05/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
