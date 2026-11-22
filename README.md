@@ -705,6 +705,7 @@
 | [0853-car-fleet](https://github.com/rajadityapal05/leetcode/tree/master/0853-car-fleet) |
 | [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/rajadityapal05/leetcode/tree/master/0870-advantage-shuffle) |
+| [0874-walking-robot-simulation](https://github.com/rajadityapal05/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
@@ -1066,6 +1067,7 @@
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/rajadityapal05/leetcode/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0874-walking-robot-simulation](https://github.com/rajadityapal05/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rajadityapal05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
@@ -1369,6 +1371,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/rajadityapal05/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/rajadityapal05/leetcode/tree/master/0640-solve-the-equation) |
 | [0682-baseball-game](https://github.com/rajadityapal05/leetcode/tree/master/0682-baseball-game) |
+| [0874-walking-robot-simulation](https://github.com/rajadityapal05/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1006-clumsy-factorial](https://github.com/rajadityapal05/leetcode/tree/master/1006-clumsy-factorial) |
 | [1041-robot-bounded-in-circle](https://github.com/rajadityapal05/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/rajadityapal05/leetcode/tree/master/1094-car-pooling) |
