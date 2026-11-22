@@ -526,6 +526,7 @@
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/rajadityapal05/leetcode/tree/master/0810-chalkboard-xor-game) |
+| [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/rajadityapal05/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -701,6 +702,7 @@
 | [0850-rectangle-area-ii](https://github.com/rajadityapal05/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajadityapal05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
@@ -1212,6 +1214,7 @@
 | [0738-monotone-increasing-digits](https://github.com/rajadityapal05/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/rajadityapal05/leetcode/tree/master/0846-hand-of-straights) |
+| [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajadityapal05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -1417,6 +1420,7 @@
 | [0661-image-smoother](https://github.com/rajadityapal05/leetcode/tree/master/0661-image-smoother) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0959-regions-cut-by-slashes](https://github.com/rajadityapal05/leetcode/tree/master/0959-regions-cut-by-slashes) |
