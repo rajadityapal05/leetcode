@@ -349,6 +349,7 @@
 | [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
+| [0848-shifting-letters](https://github.com/rajadityapal05/leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0906-super-palindromes](https://github.com/rajadityapal05/leetcode/tree/master/0906-super-palindromes) |
@@ -695,6 +696,7 @@
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/rajadityapal05/leetcode/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/rajadityapal05/leetcode/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/rajadityapal05/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/rajadityapal05/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
@@ -1254,6 +1256,7 @@
 | [0525-contiguous-array](https://github.com/rajadityapal05/leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/rajadityapal05/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0848-shifting-letters](https://github.com/rajadityapal05/leetcode/tree/master/0848-shifting-letters) |
 | [1094-car-pooling](https://github.com/rajadityapal05/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/rajadityapal05/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
