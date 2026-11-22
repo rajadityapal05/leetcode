@@ -698,6 +698,7 @@
 | [0849-maximize-distance-to-closest-person](https://github.com/rajadityapal05/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/rajadityapal05/leetcode/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajadityapal05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
@@ -1147,6 +1148,7 @@
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0754-reach-a-number](https://github.com/rajadityapal05/leetcode/tree/master/0754-reach-a-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/rajadityapal05/leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajadityapal05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0878-nth-magical-number](https://github.com/rajadityapal05/leetcode/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/rajadityapal05/leetcode/tree/master/0887-super-egg-drop) |
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
@@ -1797,4 +1799,8 @@
 |  |
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/rajadityapal05/leetcode/tree/master/0959-regions-cut-by-slashes) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajadityapal05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
