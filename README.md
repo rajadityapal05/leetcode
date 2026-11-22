@@ -704,6 +704,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajadityapal05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/rajadityapal05/leetcode/tree/master/0853-car-fleet) |
 | [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [0870-advantage-shuffle](https://github.com/rajadityapal05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
@@ -973,6 +974,7 @@
 | [0846-hand-of-straights](https://github.com/rajadityapal05/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/rajadityapal05/leetcode/tree/master/0853-car-fleet) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0870-advantage-shuffle](https://github.com/rajadityapal05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
@@ -1183,6 +1185,7 @@
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0870-advantage-shuffle](https://github.com/rajadityapal05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajadityapal05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/rajadityapal05/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/rajadityapal05/leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -1217,6 +1220,7 @@
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/rajadityapal05/leetcode/tree/master/0846-hand-of-straights) |
 | [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [0870-advantage-shuffle](https://github.com/rajadityapal05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0910-smallest-range-ii](https://github.com/rajadityapal05/leetcode/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajadityapal05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/rajadityapal05/leetcode/tree/master/0976-largest-perimeter-triangle) |
