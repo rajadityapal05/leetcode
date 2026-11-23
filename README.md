@@ -652,6 +652,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/rajadityapal05/leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/rajadityapal05/leetcode/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/rajadityapal05/leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajadityapal05/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajadityapal05/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -1340,6 +1341,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/rajadityapal05/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1735,6 +1737,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/rajadityapal05/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0853-car-fleet](https://github.com/rajadityapal05/leetcode/tree/master/0853-car-fleet) |
