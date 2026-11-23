@@ -661,6 +661,7 @@
 | [0525-contiguous-array](https://github.com/rajadityapal05/leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/rajadityapal05/leetcode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/rajadityapal05/leetcode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/rajadityapal05/leetcode/tree/master/0553-optimal-division) |
@@ -1168,6 +1169,7 @@
 | [0483-smallest-good-base](https://github.com/rajadityapal05/leetcode/tree/master/0483-smallest-good-base) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/rajadityapal05/leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajadityapal05/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/rajadityapal05/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/rajadityapal05/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
