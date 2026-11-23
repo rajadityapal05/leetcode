@@ -680,6 +680,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/rajadityapal05/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/rajadityapal05/leetcode/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajadityapal05/leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajadityapal05/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1240,6 +1241,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/rajadityapal05/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/rajadityapal05/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajadityapal05/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/rajadityapal05/leetcode/tree/master/0670-maximum-swap) |
