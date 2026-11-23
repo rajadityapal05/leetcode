@@ -516,6 +516,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/rajadityapal05/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/rajadityapal05/leetcode/tree/master/0342-power-of-four) |
 | [0393-utf-8-validation](https://github.com/rajadityapal05/leetcode/tree/master/0393-utf-8-validation) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/rajadityapal05/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/rajadityapal05/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -624,6 +625,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/rajadityapal05/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rajadityapal05/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/rajadityapal05/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/rajadityapal05/leetcode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/rajadityapal05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/rajadityapal05/leetcode/tree/master/0436-find-right-interval) |
@@ -1046,6 +1048,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/rajadityapal05/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/rajadityapal05/leetcode/tree/master/0398-random-pick-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rajadityapal05/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/rajadityapal05/leetcode/tree/master/0447-number-of-boomerangs) |
@@ -1725,6 +1728,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajadityapal05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rajadityapal05/leetcode/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/rajadityapal05/leetcode/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 ## Monotonic Stack
