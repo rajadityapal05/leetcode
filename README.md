@@ -697,6 +697,7 @@
 | [0679-24-game](https://github.com/rajadityapal05/leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/rajadityapal05/leetcode/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
+| [0697-degree-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
@@ -1081,6 +1082,7 @@
 | [0648-replace-words](https://github.com/rajadityapal05/leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
+| [0697-degree-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
