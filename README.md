@@ -454,6 +454,7 @@
 | [0788-rotated-digits](https://github.com/rajadityapal05/leetcode/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
+| [0813-largest-sum-of-averages](https://github.com/rajadityapal05/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0837-new-21-game](https://github.com/rajadityapal05/leetcode/tree/master/0837-new-21-game) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
@@ -710,6 +711,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/rajadityapal05/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0810-chalkboard-xor-game](https://github.com/rajadityapal05/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0812-largest-triangle-area) |
+| [0813-largest-sum-of-averages](https://github.com/rajadityapal05/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -1309,6 +1311,7 @@
 | [0525-contiguous-array](https://github.com/rajadityapal05/leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/rajadityapal05/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/rajadityapal05/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0813-largest-sum-of-averages](https://github.com/rajadityapal05/leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/rajadityapal05/leetcode/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajadityapal05/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/rajadityapal05/leetcode/tree/master/1094-car-pooling) |
