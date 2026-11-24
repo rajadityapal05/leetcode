@@ -699,6 +699,7 @@
 | [0682-baseball-game](https://github.com/rajadityapal05/leetcode/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/rajadityapal05/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/rajadityapal05/leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
@@ -872,6 +873,7 @@
 | [0565-array-nesting](https://github.com/rajadityapal05/leetcode/tree/master/0565-array-nesting) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/rajadityapal05/leetcode/tree/master/0695-max-area-of-island) |
 | [0851-loud-and-rich](https://github.com/rajadityapal05/leetcode/tree/master/0851-loud-and-rich) |
 | [0959-regions-cut-by-slashes](https://github.com/rajadityapal05/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
@@ -893,6 +895,7 @@
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0672-bulb-switcher-ii](https://github.com/rajadityapal05/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0690-employee-importance](https://github.com/rajadityapal05/leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/rajadityapal05/leetcode/tree/master/0695-max-area-of-island) |
 | [0959-regions-cut-by-slashes](https://github.com/rajadityapal05/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1034-coloring-a-border](https://github.com/rajadityapal05/leetcode/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/rajadityapal05/leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -1469,6 +1472,7 @@
 | [0542-01-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/rajadityapal05/leetcode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/rajadityapal05/leetcode/tree/master/0695-max-area-of-island) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -1579,6 +1583,7 @@
 | [0130-surrounded-regions](https://github.com/rajadityapal05/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajadityapal05/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/rajadityapal05/leetcode/tree/master/0399-evaluate-division) |
+| [0695-max-area-of-island](https://github.com/rajadityapal05/leetcode/tree/master/0695-max-area-of-island) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0959-regions-cut-by-slashes](https://github.com/rajadityapal05/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
