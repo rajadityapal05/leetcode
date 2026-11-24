@@ -712,6 +712,7 @@
 | [0810-chalkboard-xor-game](https://github.com/rajadityapal05/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/rajadityapal05/leetcode/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/rajadityapal05/leetcode/tree/master/0813-largest-sum-of-averages) |
+| [0817-linked-list-components](https://github.com/rajadityapal05/leetcode/tree/master/0817-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0845-longest-mountain-in-array](https://github.com/rajadityapal05/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -1096,6 +1097,7 @@
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
+| [0817-linked-list-components](https://github.com/rajadityapal05/leetcode/tree/master/0817-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/rajadityapal05/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/rajadityapal05/leetcode/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/rajadityapal05/leetcode/tree/master/0869-reordered-power-of-2) |
@@ -1161,6 +1163,7 @@
 | [0382-linked-list-random-node](https://github.com/rajadityapal05/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/rajadityapal05/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/rajadityapal05/leetcode/tree/master/0622-design-circular-queue) |
+| [0817-linked-list-components](https://github.com/rajadityapal05/leetcode/tree/master/0817-linked-list-components) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajadityapal05/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Reservoir Sampling
 |  |
