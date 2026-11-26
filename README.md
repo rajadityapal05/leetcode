@@ -464,6 +464,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/rajadityapal05/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajadityapal05/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0913-cat-and-mouse](https://github.com/rajadityapal05/leetcode/tree/master/0913-cat-and-mouse) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/rajadityapal05/leetcode/tree/master/0920-number-of-music-playlists) |
 | [0996-number-of-squareful-arrays](https://github.com/rajadityapal05/leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1012-numbers-with-repeated-digits](https://github.com/rajadityapal05/leetcode/tree/master/1012-numbers-with-repeated-digits) |
@@ -747,6 +748,7 @@
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
 | [0912-sort-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rajadityapal05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajadityapal05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/rajadityapal05/leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
@@ -1055,6 +1057,7 @@
 | [0654-maximum-binary-tree](https://github.com/rajadityapal05/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/rajadityapal05/leetcode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rajadityapal05/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajadityapal05/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1805,6 +1808,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/rajadityapal05/leetcode/tree/master/0622-design-circular-queue) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rajadityapal05/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## DP on Trees
 |  |
@@ -1918,4 +1922,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0912-sort-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
