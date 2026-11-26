@@ -357,6 +357,7 @@
 | [0890-find-and-replace-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0906-super-palindromes](https://github.com/rajadityapal05/leetcode/tree/master/0906-super-palindromes) |
+| [0916-word-subsets](https://github.com/rajadityapal05/leetcode/tree/master/0916-word-subsets) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajadityapal05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0966-vowel-spellchecker](https://github.com/rajadityapal05/leetcode/tree/master/0966-vowel-spellchecker) |
 | [0972-equal-rational-numbers](https://github.com/rajadityapal05/leetcode/tree/master/0972-equal-rational-numbers) |
@@ -748,6 +749,7 @@
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
 | [0912-sort-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rajadityapal05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0916-word-subsets](https://github.com/rajadityapal05/leetcode/tree/master/0916-word-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/rajadityapal05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/rajadityapal05/leetcode/tree/master/0932-beautiful-array) |
@@ -1123,6 +1125,7 @@
 | [0890-find-and-replace-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rajadityapal05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0916-word-subsets](https://github.com/rajadityapal05/leetcode/tree/master/0916-word-subsets) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rajadityapal05/leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0957-prison-cells-after-n-days](https://github.com/rajadityapal05/leetcode/tree/master/0957-prison-cells-after-n-days) |
