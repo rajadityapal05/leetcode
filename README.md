@@ -726,6 +726,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/rajadityapal05/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/rajadityapal05/leetcode/tree/master/0870-advantage-shuffle) |
 | [0874-walking-robot-simulation](https://github.com/rajadityapal05/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/rajadityapal05/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rajadityapal05/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/rajadityapal05/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -1200,6 +1201,7 @@
 | [0754-reach-a-number](https://github.com/rajadityapal05/leetcode/tree/master/0754-reach-a-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/rajadityapal05/leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajadityapal05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/rajadityapal05/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/rajadityapal05/leetcode/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/rajadityapal05/leetcode/tree/master/0887-super-egg-drop) |
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
