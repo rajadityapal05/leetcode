@@ -354,6 +354,7 @@
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/rajadityapal05/leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0856-score-of-parentheses) |
+| [0890-find-and-replace-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0899-orderly-queue](https://github.com/rajadityapal05/leetcode/tree/master/0899-orderly-queue) |
 | [0906-super-palindromes](https://github.com/rajadityapal05/leetcode/tree/master/0906-super-palindromes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajadityapal05/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -733,6 +734,7 @@
 | [0881-boats-to-save-people](https://github.com/rajadityapal05/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-projection-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0891-sum-of-subsequence-widths](https://github.com/rajadityapal05/leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rajadityapal05/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/rajadityapal05/leetcode/tree/master/0908-smallest-range-i) |
@@ -1107,6 +1109,7 @@
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/rajadityapal05/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rajadityapal05/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0890-find-and-replace-pattern](https://github.com/rajadityapal05/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0911-online-election](https://github.com/rajadityapal05/leetcode/tree/master/0911-online-election) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rajadityapal05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0939-minimum-area-rectangle](https://github.com/rajadityapal05/leetcode/tree/master/0939-minimum-area-rectangle) |
