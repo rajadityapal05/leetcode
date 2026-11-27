@@ -353,6 +353,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/rajadityapal05/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rajadityapal05/leetcode/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/rajadityapal05/leetcode/tree/master/0722-remove-comments) |
 | [0843-guess-the-word](https://github.com/rajadityapal05/leetcode/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/rajadityapal05/leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/rajadityapal05/leetcode/tree/master/0856-score-of-parentheses) |
@@ -718,6 +719,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajadityapal05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rajadityapal05/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/rajadityapal05/leetcode/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/rajadityapal05/leetcode/tree/master/0722-remove-comments) |
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
