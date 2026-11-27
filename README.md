@@ -454,6 +454,7 @@
 | [0650-2-keys-keyboard](https://github.com/rajadityapal05/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajadityapal05/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajadityapal05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/rajadityapal05/leetcode/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/rajadityapal05/leetcode/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/rajadityapal05/leetcode/tree/master/0808-soup-servings) |
@@ -712,6 +713,7 @@
 | [0697-degree-of-an-array](https://github.com/rajadityapal05/leetcode/tree/master/0697-degree-of-an-array) |
 | [0710-random-pick-with-blacklist](https://github.com/rajadityapal05/leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/rajadityapal05/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajadityapal05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0775-global-and-local-inversions](https://github.com/rajadityapal05/leetcode/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/rajadityapal05/leetcode/tree/master/0782-transform-to-chessboard) |
@@ -1288,6 +1290,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/rajadityapal05/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/rajadityapal05/leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/rajadityapal05/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajadityapal05/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/rajadityapal05/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/rajadityapal05/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/rajadityapal05/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
